@@ -1,7 +1,6 @@
 ## 18F Edu
 
-This is the Jekyll source for the
-[18F Edu home page](http://pages.18f.gov/edu/).
+This is the project repository for the [18F Edu](http://pages.18f.gov/edu/) component of the 18F Learn initiative.
 
 ### Generating the site/hosting locally
 
