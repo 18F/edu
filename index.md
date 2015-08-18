@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: default
 title: Introduction
 ---
 18F Edu is the self-guided training component of the 18F Learn initiative. We
