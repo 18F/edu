@@ -17,12 +17,12 @@ links:
   text: 18F Edu home page
 tasks: https://github.com/18F/edu/issues
 team:
-- githubUser: mbland
+- github: mbland
   role: lead
-- githubUser: gboone
+- github: gboone
   role: lead
-- githubUser: emileighoutlaw
-- githubUser: awfrancisco
-- githubUser: kategarklavs
-- githubUser: jackiekazil
-- githubUser: quepol
+- github: emileighoutlaw
+- github: awfrancisco
+- github: kategarklavs
+- github: jackiekazil
+- github: quepol
