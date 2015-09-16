@@ -2,7 +2,7 @@
 name: edu
 full_name: 18F Edu
 description: |
-18F Edu is the self-guided training component of the 18F Learn initiative. It aims to supplement the 18F Guides with hands-on exercises that can solidify your grasp of those materials. The combined body of 18F Guides and 18F Edu training modules aim to support the concepts promoted in the U.S. Digital Services Playbook.
+  18F Edu is the self-guided training component of the 18F Learn initiative. It aims to supplement the 18F Guides with hands-on exercises that can solidify your grasp of those materials. The combined body of 18F Guides and 18F Edu training modules aim to support the concepts promoted in the U.S. Digital Services Playbook.
 type: docs
 owner_type: project
 status: active

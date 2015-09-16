@@ -1,4 +1,3 @@
-baseurl: /edu
 markdown: redcarpet
 name: 18F Edu [DRAFT]
 exclude:
@@ -10,10 +9,6 @@ exclude:
 
 permalink: pretty
 highlighter: rouge
-
-# To use the shared 18F Guides styles when deploying to pages.18f.gov,
-# uncomment the following:
-asset_root: /guides-template
 
 # Author/Organization info to be displayed in the templates
 author:
