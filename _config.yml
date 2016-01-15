@@ -42,6 +42,9 @@ repos:
 - name: How to test and measure content
   description: Measure content training
   url: https://github.com/18F/edu-measure-content
+- name: Voice and tone
+  description: Voice and tone training
+  url: https://pages.18f.gov/edu-voice-and-tone/
 
 # Style Variables
 brand_color: "#1188ff"
