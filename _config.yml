@@ -37,6 +37,9 @@ navigation:
 - text: Plain language tutorial
   url: https://pages.18f.gov/plain-language-tutorial/
   internal: false
+- text: Unit testing in Node.js
+  url: https://pages.18f.gov/unit-testing-node/
+  internal: false
 
 repos:
 - name: 18F Edu
