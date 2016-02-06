@@ -31,6 +31,12 @@ navigation:
 - text: How to test and measure content
   url: https://pages.18f.gov/edu-measure-content/
   internal: false
+- text: Voice and tone
+  url: https://pages.18f.gov/edu-voice-and-tone/
+  internal: false
+- text: Plain language tutorial
+  url: https://pages.18f.gov/plain-language-tutorial/
+  internal: false
 
 repos:
 - name: 18F Edu
